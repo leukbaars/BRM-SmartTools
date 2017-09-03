@@ -8,14 +8,14 @@ Shortcuts:
 -create a cut between selected edges in edge mode
 
 **brm.smartbevel:**
--vertex bevel in vertex mode
--edge bevel in edge mode
+- vertex bevel in vertex mode
+- edge bevel in edge mode
 
 **brm.smartextrude**
--extend edges using the move commands in edge mode
--extrude along vertex normal in face mode using even offset
+- extend edges using the move commands in edge mode
+- extrude along vertex normal in face mode using even offset
 
 **brm.smartdelete**
--dissolve in vertex mode
--dissolve in edge mode
--delete in face mode
+- dissolve in vertex mode
+- dissolve in edge mode
+- delete in face mode
