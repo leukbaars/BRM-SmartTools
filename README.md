@@ -4,8 +4,8 @@ Simple script that add context sensitivity to blender's modeling tools. Basicall
 Shortcuts:
 
 **brm.smartconnect:**
--create an edge between selected vertexes in vertex mode
--create a cut between selected edges in edge mode
+- create an edge between selected vertexes in vertex mode
+- create a cut between selected edges in edge mode
 
 **brm.smartbevel:**
 - vertex bevel in vertex mode
